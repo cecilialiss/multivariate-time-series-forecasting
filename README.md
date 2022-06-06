@@ -1,10 +1,5 @@
 # multivariate-time-series-forecasting
 
-INM 427 Neural Computing Coursework
-Sin Sze Li
-sin.li@city.ac.uk
-210035720
-
 ============LIBRARY DEPENDENCIES==========
 pandas 		1.4.1
 numpy 		1.12.2
